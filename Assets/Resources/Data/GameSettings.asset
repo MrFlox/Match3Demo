@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120dad66443a458ab38e642026d98ecd, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  MatchRoundTime: 60
+  BoardSize: 6
+  ColorVariants:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.822441, b: 0, a: 1}
+  - {r: 0.38959932, g: 1, b: 0, a: 1}
+  - {r: 0.014428616, g: 0, b: 1, a: 1}
+  - {r: 1, g: 0, b: 0.65210056, a: 1}
+  tilePrefab: {fileID: 7503346930986733763, guid: 15b8c58d27f8cad4c9e6062551fbe80a, type: 3}
+  tileSize: 100
